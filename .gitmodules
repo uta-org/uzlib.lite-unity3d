@@ -1,0 +1,3 @@
+[submodule "Assets/UnitedTeamworkAssociation/uzLib.Lite"]
+	path = Assets/UnitedTeamworkAssociation/uzLib.Lite
+	url = https://github.com/uta-org/uzLib.Lite
